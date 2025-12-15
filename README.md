@@ -17,7 +17,7 @@ I'm Udayakumar
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=java,springboot,postgresql,aws,html,css,js,python,c,flutter,react,mysql,sqlite,git,github,linux,npm,bootstrap,tailwind,firebase,arduino&theme=dark"
+    src="https://skillicons.dev/icons?i=java,spring,postgresql,aws,html,css,js,python,c,flutter,react,mysql,sqlite,git,github,linux,npm,bootstrap,tailwind,firebase,arduino&theme=dark"
     height="48"
   />
 </p>
