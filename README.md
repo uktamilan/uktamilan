@@ -25,33 +25,16 @@
     &width=900
     &lines=Software+Engineer+%7C+Java+Full+Stack+%7C+AI+%26+ML+Enthusiast" />
 </p>
+<h1 align="center">Udaya Kumar</h1>
+<h3 align="center">Software Engineer | Java Full Stack | Backend Developer</h3>
 
-<!-- ===================== SOCIAL + CONTACT ===================== -->
-
-<p align="center">
-  <a href="mailto:udhayakumars0101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/udxyx_kumxr/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-udxyx__kumxr-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://udayakumar-portfolio-pearl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-gold?style=flat-square&logo=vercel&logoColor=black"/>
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=uktamilan&label=Profile%20Views&color=gold&style=flat-square"/>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science Engineering Student  
 - 💼 Focused on **Java Full Stack Development & AI-driven Applications**  
 - 🚀 Passionate about building **scalable, real-world software systems**  
-- 📚 Currently improving **DSA, System Design & Backend Architecture**
+- 📚 Currently strengthening **Data Structures, System Design & Cloud Basics**
 
 ---
 
@@ -75,16 +58,37 @@
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uktamilan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
+## 📈 Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uktamilan&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/uktamilan">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:udhayakumars0101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/udxyx_kumxr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-udxyx__kumxr-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://udayakumar-portfolio-pearl.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-gold?style=flat-square&logo=vercel&logoColor=black"/>
+  </a>
+
+
