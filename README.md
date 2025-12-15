@@ -42,7 +42,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=java,python,c,cpp,react,nodejs,express,html,css,js,mongodb,mysql,sqlite,git,github,linux,npm,bootstrap,tailwind,tensorflow,firebase,arduino&theme=dark"
+    src="https://skillicons.dev/icons?i=java,spring,aws,microservices,postgresql,docker,python,c,react,html,css,js,mysql,sqlite,git,github,linux,npm,bootstrap,tailwind,firebase,arduino&theme=dark"
     height="48"
   />
 </p>
