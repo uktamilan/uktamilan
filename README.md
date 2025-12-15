@@ -1,5 +1,7 @@
-<h1 align="center">Udaya Kumar</h1>
-<h3 align="center">Software Engineer | Java Full Stack | Backend Developer</h3>
+<h1 align="center" style="color:gold;">Udaya Kumar</h1>
+<h3 align="center" style="color:gold;">
+  Software Engineer | Java Full Stack | Backend Developer
+</h3>
 
 <p align="center">
   <a href="mailto:udhayakumars0101@gmail.com@gmail.com">
@@ -39,14 +41,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uktamilan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Activity Overview
 
 <p align="center">
@@ -64,9 +58,18 @@
   <a href="https://github.com/uktamilan">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github"/>
   </a>
-  <a href="https://udayakumar-portfolio-pearl.vercel.app/">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github"/>
+<p align="center">
+  <a href="https://www.instagram.com/udxyx_kumxr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-udxyx__kumxr-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
+
+  <a href="https://udayakumar-portfolio-pearl.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-gold?style=flat-square&logo=vercel&logoColor=black"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=uktamilan&label=Profile%20Views&color=gold&style=flat-square"/>
+</p>
+</p>
 </p>
 
 
