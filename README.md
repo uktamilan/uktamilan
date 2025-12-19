@@ -70,7 +70,7 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/udayakumar-s-80148b323/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="https://github.com/uktamilan">
