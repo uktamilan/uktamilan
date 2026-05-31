@@ -169,6 +169,7 @@ public class Udayakumar {
 |:---:|:---|:---|
 | 🏆 | **Top 12 — DecodeX 2026** | Secured **Top 12 position** in DecodeX 2026 competitive coding event, showcasing problem-solving and coding abilities among hundreds of participants |
 | 📜 | **NPTEL — Java Programming** | Certified by **National Programme on Technology Enhanced Learning (NPTEL)** in Core Java |
+| 📜 | **NPTEL — Cloud Computing** |Certified by National Programme on Technology Enhanced Learning (NPTEL) in Cloud Computing |
 | 📜 | **NPTEL — Design Thinking & Innovation** | Certified by NPTEL in Design Thinking & Innovation methodologies |
 | 📜 | **NPTEL — IoT Fundamentals** | Certified by NPTEL in **Internet of Things (IoT) Fundamentals** |
 | 🎤 | **Research Paper Presenter** | Presented research papers at **2 academic conferences**, demonstrating advanced communication and technical presentation skills |
