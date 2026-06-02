@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=udayakumar-s&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   <a href="mailto:udhayakumars0101@gmail.com"><img src="https://img.shields.io/badge/Email-udhayakumars0101%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/udayakumar-s-80148b323/"><img src="https://img.shields.io/badge/LinkedIn-Udayakumar%20S-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://udayakumar-portfolio-pearl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-38BDAE?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://udayakumar-fullstackdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-38BDAE?style=flat-square&logo=vercel&logoColor=white"/></a>
 </div>
 
 ---
